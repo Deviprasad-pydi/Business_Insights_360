@@ -10,7 +10,6 @@ AtliQ Hardware, a rapidly growing company, is implementing Power BI for the firs
 - **Power BI Desktop**
 - **Excel**
 - **DAX Language**
-- **DAX Studio** (for performance optimization)
 
 ## Key Power BI Techniques Learned
 - ✅ Defining essential questions before project initiation
